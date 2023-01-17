@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-05-clases-abstractas_y_m
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-06-Static_brebe_explicacion_ambito", "01-06-Static_brebe_explicacion_ambito\01-06-Static_brebe_explicacion_ambito.csproj", "{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-07-delegados_static", "01-07-delegados_static\01-07-delegados_static.csproj", "{ED424310-B19E-4132-9D2B-6BCC214F99D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
