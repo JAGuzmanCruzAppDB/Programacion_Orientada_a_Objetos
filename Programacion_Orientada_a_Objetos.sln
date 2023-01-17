@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-02-Uso_del_constructor_e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-03-Acceso_protegido_Sealed", "02-03-Acceso_protegido_Sealed\02-03-Acceso_protegido_Sealed.csproj", "{E2B3BCFD-EB73-4A6F-8F71-E01C208CF9BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-04-funciones_virtuales", "02-04-funciones_virtuales\02-04-funciones_virtuales.csproj", "{00043150-CE39-4924-977B-D5662C74554E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{E2B3BCFD-EB73-4A6F-8F71-E01C208CF9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2B3BCFD-EB73-4A6F-8F71-E01C208CF9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2B3BCFD-EB73-4A6F-8F71-E01C208CF9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00043150-CE39-4924-977B-D5662C74554E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00043150-CE39-4924-977B-D5662C74554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00043150-CE39-4924-977B-D5662C74554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00043150-CE39-4924-977B-D5662C74554E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
