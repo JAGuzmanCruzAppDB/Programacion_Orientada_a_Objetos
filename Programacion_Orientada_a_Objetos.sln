@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-01-clase-constructor-met
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-02-encapsulamiento", "01-02-encapsulamiento\01-02-encapsulamiento.csproj", "{42108D8B-A848-42DC-8AA5-178644C432EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-03-objeto", "01-03-objeto\01-03-objeto.csproj", "{5794D6B1-1150-4CD2-ACB2-F592655B2316}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{42108D8B-A848-42DC-8AA5-178644C432EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42108D8B-A848-42DC-8AA5-178644C432EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42108D8B-A848-42DC-8AA5-178644C432EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5794D6B1-1150-4CD2-ACB2-F592655B2316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5794D6B1-1150-4CD2-ACB2-F592655B2316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5794D6B1-1150-4CD2-ACB2-F592655B2316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5794D6B1-1150-4CD2-ACB2-F592655B2316}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
