@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-03-objeto", "01-03-objet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-04-metodo_privado-y-sobrecarga", "01-04-metodo_privado-y-sobrecarga\01-04-metodo_privado-y-sobrecarga.csproj", "{489BB50B-4F81-4682-8AC5-7B1C992326E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-05-clases-abstractas_y_metodos_abstractos_e_interfaces", "01-05-clases-abstractas_y_metodos_abstractos_e_interfaces\01-05-clases-abstractas_y_metodos_abstractos_e_interfaces.csproj", "{5F107E2F-5444-4D25-9834-3DCCEFFE135F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{489BB50B-4F81-4682-8AC5-7B1C992326E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{489BB50B-4F81-4682-8AC5-7B1C992326E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{489BB50B-4F81-4682-8AC5-7B1C992326E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
