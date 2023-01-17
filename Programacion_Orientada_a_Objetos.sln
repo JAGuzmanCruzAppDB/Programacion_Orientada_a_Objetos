@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-12-sobrecarga_operadores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-13-serializacion_binaria", "01-13-serializacion_binaria\01-13-serializacion_binaria.csproj", "{F176E1C9-71B5-48DD-9D22-AC939278E7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-14-Serializacion_SOAP", "01-14-Serializacion_SOAP\01-14-Serializacion_SOAP.csproj", "{DFBAE8D9-C9C2-4B87-AE2A-6FD4C361A05A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{F176E1C9-71B5-48DD-9D22-AC939278E7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F176E1C9-71B5-48DD-9D22-AC939278E7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F176E1C9-71B5-48DD-9D22-AC939278E7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBAE8D9-C9C2-4B87-AE2A-6FD4C361A05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBAE8D9-C9C2-4B87-AE2A-6FD4C361A05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBAE8D9-C9C2-4B87-AE2A-6FD4C361A05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBAE8D9-C9C2-4B87-AE2A-6FD4C361A05A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
