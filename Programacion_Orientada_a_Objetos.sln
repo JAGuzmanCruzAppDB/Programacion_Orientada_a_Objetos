@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-14-Serializacion_SOAP", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-15-Serializacion-xml", "01-15-Serializacion-xml\01-15-Serializacion-xml.csproj", "{76453232-83DF-46AE-83ED-2A50FA662B69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-16-Serializacion_con_composicion", "01-16-Serializacion_con_composicion\01-16-Serializacion_con_composicion.csproj", "{F6F843CB-12A4-4DF7-B138-33A979FB4F70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{76453232-83DF-46AE-83ED-2A50FA662B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76453232-83DF-46AE-83ED-2A50FA662B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76453232-83DF-46AE-83ED-2A50FA662B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6F843CB-12A4-4DF7-B138-33A979FB4F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6F843CB-12A4-4DF7-B138-33A979FB4F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6F843CB-12A4-4DF7-B138-33A979FB4F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6F843CB-12A4-4DF7-B138-33A979FB4F70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
