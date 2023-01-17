@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-03-Acceso_protegido_Seal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-04-funciones_virtuales", "02-04-funciones_virtuales\02-04-funciones_virtuales.csproj", "{00043150-CE39-4924-977B-D5662C74554E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-05-New_en_metodos", "02-05-New_en_metodos\02-05-New_en_metodos.csproj", "{50EF6337-BF7F-4829-9A03-F207443CEFC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{00043150-CE39-4924-977B-D5662C74554E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00043150-CE39-4924-977B-D5662C74554E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00043150-CE39-4924-977B-D5662C74554E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
