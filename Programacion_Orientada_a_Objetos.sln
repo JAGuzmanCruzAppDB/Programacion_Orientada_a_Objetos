@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-01-Composicion", "04-01-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-02-Composicion_Ejemplo_02", "04-02-Composicion_Ejemplo_02\04-02-Composicion_Ejemplo_02.csproj", "{729D4DCD-7191-4DB9-B56D-6B8B4E55E399}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-01-Polimorfismo", "05-01-Polimorfismo\05-01-Polimorfismo.csproj", "{AA7077E5-E292-4AD8-A662-208E7A724017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{729D4DCD-7191-4DB9-B56D-6B8B4E55E399}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729D4DCD-7191-4DB9-B56D-6B8B4E55E399}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729D4DCD-7191-4DB9-B56D-6B8B4E55E399}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7077E5-E292-4AD8-A662-208E7A724017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7077E5-E292-4AD8-A662-208E7A724017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7077E5-E292-4AD8-A662-208E7A724017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7077E5-E292-4AD8-A662-208E7A724017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
