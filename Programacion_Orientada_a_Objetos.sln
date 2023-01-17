@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-07-delegados_static", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-08-Delegados_handlers", "01-08-Delegados_handlers\01-08-Delegados_handlers.csproj", "{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-09-Delegados_multiples-handlers", "01-09-Delegados_multiples-handlers\01-09-Delegados_multiples-handlers.csproj", "{FB01903A-13BC-4D64-AC02-E5B6532649E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB01903A-13BC-4D64-AC02-E5B6532649E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB01903A-13BC-4D64-AC02-E5B6532649E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB01903A-13BC-4D64-AC02-E5B6532649E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB01903A-13BC-4D64-AC02-E5B6532649E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
