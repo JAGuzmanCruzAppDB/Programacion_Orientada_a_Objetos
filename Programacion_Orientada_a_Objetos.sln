@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-06-Casting_Type_cast_en_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-01-Agregacion", "03-01-Agregacion\03-01-Agregacion.csproj", "{5EFC6970-EFFF-43E8-886A-D3D197D47B2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-01-Composicion", "04-01-Composicion\04-01-Composicion.csproj", "{925D70EB-F102-4C5B-947E-FB96EB3313FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -183,6 +185,10 @@ Global
 		{5EFC6970-EFFF-43E8-886A-D3D197D47B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EFC6970-EFFF-43E8-886A-D3D197D47B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EFC6970-EFFF-43E8-886A-D3D197D47B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925D70EB-F102-4C5B-947E-FB96EB3313FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925D70EB-F102-4C5B-947E-FB96EB3313FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925D70EB-F102-4C5B-947E-FB96EB3313FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925D70EB-F102-4C5B-947E-FB96EB3313FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
