@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-04-funciones_virtuales",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-05-New_en_metodos", "02-05-New_en_metodos\02-05-New_en_metodos.csproj", "{50EF6337-BF7F-4829-9A03-F207443CEFC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-06-Casting_Type_cast_en_clase_y_tipos_numericos", "02-06-Casting_Type_cast_en_clase_y_tipos_numericos\02-06-Casting_Type_cast_en_clase_y_tipos_numericos.csproj", "{1BBB1C46-BB5F-4930-86EF-968F4DEF3C67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50EF6337-BF7F-4829-9A03-F207443CEFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBB1C46-BB5F-4930-86EF-968F4DEF3C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBB1C46-BB5F-4930-86EF-968F4DEF3C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBB1C46-BB5F-4930-86EF-968F4DEF3C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBB1C46-BB5F-4930-86EF-968F4DEF3C67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
