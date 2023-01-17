@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-06-Static_brebe_explicac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-07-delegados_static", "01-07-delegados_static\01-07-delegados_static.csproj", "{ED424310-B19E-4132-9D2B-6BCC214F99D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-08-Delegados_handlers", "01-08-Delegados_handlers\01-08-Delegados_handlers.csproj", "{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED424310-B19E-4132-9D2B-6BCC214F99D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24ECF6B-D4F4-44C6-8754-FA4EE7EF4D52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
