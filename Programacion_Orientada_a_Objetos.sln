@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-04-metodo_privado-y-sobr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-05-clases-abstractas_y_metodos_abstractos_e_interfaces", "01-05-clases-abstractas_y_metodos_abstractos_e_interfaces\01-05-clases-abstractas_y_metodos_abstractos_e_interfaces.csproj", "{5F107E2F-5444-4D25-9834-3DCCEFFE135F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-06-Static_brebe_explicacion_ambito", "01-06-Static_brebe_explicacion_ambito\01-06-Static_brebe_explicacion_ambito.csproj", "{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F107E2F-5444-4D25-9834-3DCCEFFE135F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C2B8C9F-9B52-44E9-8C9F-B18D5A8DFD1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
