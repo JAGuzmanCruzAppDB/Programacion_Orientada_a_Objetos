@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-16-Serializacion_con_com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-17-Archivos", "01-17-Archivos\01-17-Archivos.csproj", "{9A30E418-61E9-40C5-846D-F7B26C61990E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-18-Stream_uso_de_Seek_ReadByte_Length", "01-18-Stream_uso_de_Seek_ReadByte_Length\01-18-Stream_uso_de_Seek_ReadByte_Length.csproj", "{CF578BD7-1651-4419-AFF5-E8BDAAD96D7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{9A30E418-61E9-40C5-846D-F7B26C61990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A30E418-61E9-40C5-846D-F7B26C61990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A30E418-61E9-40C5-846D-F7B26C61990E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF578BD7-1651-4419-AFF5-E8BDAAD96D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF578BD7-1651-4419-AFF5-E8BDAAD96D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF578BD7-1651-4419-AFF5-E8BDAAD96D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF578BD7-1651-4419-AFF5-E8BDAAD96D7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
