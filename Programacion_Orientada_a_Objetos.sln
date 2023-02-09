@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-04-ICloneable_interfaz",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-05-IComparable_interfaz", "05-05-IComparable_interfaz\05-05-IComparable_interfaz.csproj", "{A95A901D-C5DB-4561-A3E3-6115DEFFAA76}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-02-Get-Set_Accesors", "01-02-Get-Set_Accesors\01-02-Get-Set_Accesors.csproj", "{3215FED6-8E22-409C-8B7D-948D48503018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{A95A901D-C5DB-4561-A3E3-6115DEFFAA76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A95A901D-C5DB-4561-A3E3-6115DEFFAA76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A95A901D-C5DB-4561-A3E3-6115DEFFAA76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3215FED6-8E22-409C-8B7D-948D48503018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3215FED6-8E22-409C-8B7D-948D48503018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3215FED6-8E22-409C-8B7D-948D48503018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3215FED6-8E22-409C-8B7D-948D48503018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
